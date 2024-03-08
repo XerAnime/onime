@@ -70,7 +70,7 @@ export default function Search() {
         />
         <meta
           name='keywords'
-          Content='search, anime, Shiganime, streaming anime subtitle english'
+          Content='search, anime, AnimXer, streaming anime subtitle english'
         />
         <meta name='author' Content='Raditya Septian' />
         <meta name='viewport' Content='width=device-width, initial-scale=1.0' />
