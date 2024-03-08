@@ -111,7 +111,7 @@ export default function Home() {
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
-        <title>Shiganime - Streaming Anime Subtitle English</title>
+        <title>AnimXer - Streaming Anime Subtitle English</title>
       </Helmet>
       <Navbar random={state.values} />
       <Container>
