@@ -81,9 +81,9 @@ export default function Navbar({ random = [] }) {
 
 function Title({ className }) {
   return (
-    <Link to='/' title='Shiganime' className={className}>
+    <Link to='/' title='AnimXer' className={className}>
       <h1 className='text-2xl md:text-3xl font-medium hover:text-white'>
-        SHIGANIME
+        ANIMXER
       </h1>
     </Link>
   )
@@ -131,7 +131,7 @@ function Helper(props) {
       </div>
       <a
         title='Github'
-        href='https://github.com/radityaseptian'
+        href='https://animxer-blog1.pages.dev/'
         target='_blank'
         className='flex items-center gap-1 cursor-pointer hover:text-white'
       >
