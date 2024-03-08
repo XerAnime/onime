@@ -193,7 +193,7 @@ export default function AnimeWatch() {
         />
         <meta
           name='keywords'
-          content='anime, streaming, Shiganime, streaming anime subtitle english'
+          content='anime, AnimXer, AnimXer, streaming anime subtitle english'
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
