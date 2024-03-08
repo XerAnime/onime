@@ -18,18 +18,18 @@ export default function Footer() {
                 that you like.
               </p>
               <p className=' text-sm lg:text-base leading-6 pt-2'>
-                This website using public api
+                follow Me On
                 <a
-                  href='https://github.com/riimuru/gogoanime-api'
+                  href='https://www.facebook.com/profile.php?id=100069572806122'
                   target='_blank'
                   rel='noreferrer'
                   className=' underline text-slate-100'
                 >
-                  Gogoanime-api
+                  Facebook Page 
                 </a>
               </p>
               <div className=' text-sm py-3'>
-                COPYRIGHT (C) 2023. CREATED BY RMS
+                COPYRIGHT (C) 2023. CREATED BY ANIMXER
               </div>
             </div>
             <div className='flex justify-around lg:justify-between my-4 md:my-0'>
@@ -51,7 +51,7 @@ export default function Footer() {
                     <li className='font-patua text-white no-underline'>
                       About
                     </li>
-                    <FootList>About Shiganime</FootList>
+                    <FootList>About ANIMXER</FootList>
                   </Link>
                 </ul>
               </div>
@@ -63,7 +63,7 @@ export default function Footer() {
               </p>
               <div className='flex gap-2 lg:gap-3'>
                 <a
-                  href='https://www.facebook.com/profile.php?id=100093066214468'
+                  href='https://www.facebook.com/profile.php?id=100069572806122'
                   target='_blank'
                   rel='noreferrer'
                   className='p-2 hover:bg-black/50 rounded-full'
@@ -71,7 +71,7 @@ export default function Footer() {
                   <FaFacebookF className='w-5 h-5' />
                 </a>
                 <a
-                  href='https://github.com/radityaseptian'
+                  href='https://animxer-blog1.pages.dev/'
                   target='_blank'
                   rel='noreferrer'
                   className='p-2 hover:bg-black/50 rounded-full'
