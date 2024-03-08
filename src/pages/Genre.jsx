@@ -65,11 +65,11 @@ export default function Movie() {
         <meta charset='UTF-8' />
         <meta
           name='description'
-          content={`Watch Anime Genre ${slug} Subtitle English - Shiganime`}
+          content={`Watch Anime Genre ${slug} Subtitle English - AnimXer`}
         />
         <meta
           name='keywords'
-          content='anime, streaming, genre, Shiganime, streaming anime subtitle english'
+          content='anime, streaming, genre, AnimXer, streaming anime subtitle english'
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
