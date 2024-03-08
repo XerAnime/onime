@@ -107,7 +107,7 @@ export default function Home() {
         <meta name='description' content='Streaming anime subtitle English' />
         <meta
           name='keywords'
-          content='anime, streaming, Shiganime, streaming anime subtitle english, dubbing english, anime chinese'
+          content='anime, streaming, AnimXer, streaming anime subtitle english, dubbing english, anime chinese'
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
