@@ -66,7 +66,7 @@ export default function Search() {
         <meta charset='UTF-8' />
         <meta
           name='description'
-          Content={`Search anime ${param} subtitle english - Shiganime`}
+          Content={`Search anime ${param} subtitle english - AnimXer`}
         />
         <meta
           name='keywords'
