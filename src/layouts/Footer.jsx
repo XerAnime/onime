@@ -11,7 +11,7 @@ export default function Footer() {
           <div className='grid sm:grid-cols-2  md:grid-cols-3 lg:gap-10'>
             <div>
               <div className='pb-2 font-patua text-white text-lg'>
-                Shiganime.
+                AnimXer.
               </div>
               <p className=' text-sm lg:text-base leading-6'>
                 A simple application where you can enjoy watching anime videos
