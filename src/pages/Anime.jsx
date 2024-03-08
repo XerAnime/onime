@@ -26,7 +26,7 @@ export default function Anime() {
   const title =
     id.split('-').join(' ').charAt(0).toUpperCase() +
     id.split('-').join(' ').slice(1) +
-    ' Subtitle English | Shiganime'
+    ' Subtitle English | AnimXer'
   return (
     <>
       <Helmet>
@@ -35,11 +35,11 @@ export default function Anime() {
           name='description'
           content={`Watch anime ${id
             .split('-')
-            .join(' ')} subtitle English - Shiganime`}
+            .join(' ')} subtitle English - AnimXer`}
         />
         <meta
           name='keywords'
-          content='anime, streaming, Shiganime, streaming anime subtitle english'
+          content='anime, AnimXer, AnimXer, streaming anime subtitle english'
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
