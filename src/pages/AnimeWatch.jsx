@@ -189,11 +189,11 @@ export default function AnimeWatch() {
           name='description'
           content={`Watch anime ${id
             .split('-')
-            .join(' ')} subtitle English - Shiganime`}
+            .join(' ')} subtitle English - AnimXer`}
         />
         <meta
           name='keywords'
-          content='anime, AnimXer, AnimXer, streaming anime subtitle english'
+          content='anime, Stream, AnimXer, streaming anime subtitle english'
         />
         <meta name='author' content='Raditya Septian' />
         <meta name='viewport' content='width=device-width, initial-scale=1.0' />
